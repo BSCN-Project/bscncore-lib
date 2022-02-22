@@ -37,7 +37,7 @@ This will generate files named `bscncore-lib.js` and `bscncore-lib.min.js`.
 ## Development & Tests
 
 ```sh
-git clone https://github.com/bscnproject/bscncore-lib
+git clone https://github.com/BSCN-Project/bscncore-lib
 cd bscncore-lib
 npm install
 ```

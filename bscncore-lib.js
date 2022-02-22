@@ -61750,7 +61750,7 @@ module.exports={
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/bscnproject/bscncore-lib.git"
+    "url": "https://github.com/BSCN-Project/bscncore-lib.git"
   },
   "browser": {
     "request": "browser-request"
