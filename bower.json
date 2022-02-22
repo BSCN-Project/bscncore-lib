@@ -1,0 +1,30 @@
+{
+  "name": "bscncore-lib",
+  "main": "./bscncore-lib.min.js",
+  "version": "0.0.1",
+  "homepage": "http://bscn.com",
+  "authors": [
+    "BSCN <dev@bscn.com>"
+  ],
+  "description": "A pure, powerful core for your bscn project.",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "bitcoin",
+    "bitcore",
+    "btc",
+    "satoshi"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "CONTRIBUTING.md",
+    "gulpfile.js",
+    "lib",
+    "index.js",
+    "karma.conf.js",
+    "npm-shrinkwrap.json",
+    "test"
+  ]
+}
